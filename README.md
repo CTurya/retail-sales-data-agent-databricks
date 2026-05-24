@@ -18,7 +18,7 @@ This project demonstrates how to build and evaluate a retail sales analytics age
 
 ## Dataset Overview
 Dataset Name:
-`retail_sales_data`
+`retail_sales_dataset`
 
 Dataset contains:
 - Retail transactions
@@ -38,7 +38,7 @@ Dataset contains:
 
 ### 2. Agent Development
 - Created retail sales analytics agent
-- Connected to `retail_sales_data`
+- Connected to `retail_sales_dataset`
 - Added business instructions
 
 ### 3. Agent Testing
